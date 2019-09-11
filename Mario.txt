@@ -1,0 +1,10 @@
+<head>
+</head>
+
+<title>Latian Ngoding</title>
+
+<body>
+	<h1 align="center">Simulasi Git</h1>
+	<p>Github adalah suatu aplikasi untuk mempermudah pengembangan web secara bersama-sama dengan programmer lain</p>
+
+</body>
